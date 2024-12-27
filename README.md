@@ -93,7 +93,7 @@
 
 ## 알고리즘 역량 ✨
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzzz955)](https://solved.ac/zzzz955/)
-<img src="https://github.com/zzzz955/zzzz955/blob/main/PCCP2.png" alt="icon" width="170" height="170" />
+<img src="https://github.com/zzzz955/zzzz955/blob/main/src/PCCP2.png" alt="icon" width="170" height="170" />
 
 ## GitHub 통계 📊
 
