@@ -6,7 +6,7 @@
   </a>
 </div>
 
-## 내가 좋아하는 도구와 기술 ⚙️
+## Skill & Tools ⚙️
 
 > 내가 작업해본 도구와 기술, 그리고 열정을 가지고 있는 것들입니다.
 
@@ -100,15 +100,15 @@
 <details>
   <summary>GitHub 프로필 통계 💻</summary>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="전상혁's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=zzzz955&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="전상혁's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzz955&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="전상혁's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=zzzz955&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=#0D1117&title_color=fff&icon_color=00E676" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="전상혁's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zzzz955&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=#0D1117&title_color=fff&icon_color=fff" height="192px"/></a>
   <br/>
 </details>
 
 <details>
   <summary>활동 그래프 📈</summary>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzzz955&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzzz955&bg_color=0D1117&color=fff&line=04E61B&point=fff&area=true&hide_border=true">
 </details>
 
 <!--
