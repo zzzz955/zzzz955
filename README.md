@@ -2,6 +2,7 @@
 <div align="justify">
   <a href="https://zzzz955.tistory.com/">
     <img src="https://img.shields.io/badge/Tistory-%23FF6600?style=for-the-badge&logo=tistory&logoColor=white" alt="Tistory 블로그" />
+    <img src="https://komarev.com/ghpvc/?username=zzzz955&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
   </a>
 </div>
 
@@ -12,8 +13,12 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/C.png" alt="icon" width="65" height="65" />
+        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/C.png" alt="icon" width="65" height="65" />
       <br>C
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
@@ -28,19 +33,23 @@
       <br>JavaScript
     </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/oracle.png" alt="icon" width="65" height="65" />
+        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/oracle.png" alt="icon" width="65" height="65" />
       <br>Oracle
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/firebase.png" alt="icon" width="65" height="65" />
+        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/firebase.png" alt="icon" width="65" height="65" />
       <br>Firebase
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
@@ -50,23 +59,41 @@
       <br>AWS
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/linux.png" alt="icon" width="65" height="65" />
+        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/linux.png" alt="icon" width="65" height="65" />
       <br>Linux
     </td>
-    <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/unity.png" alt="icon" width="65" height="65" />
-      <br>Unity
-    </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>GitHub
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/jira.png" width="65" height="65" alt="Jira" />
+        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/jira.png" width="65" height="65" alt="Jira" />
       <br>Jira
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/unity.png" alt="icon" width="65" height="65" />
+      <br>Unity
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" />
+      <br>raspberrypi
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Arduino.png" alt="icon" width="65" height="65" />
+      <br>Arduino
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Tomcat.png" alt="icon" width="65" height="65" />
+      <br>Tomcat
     </td>
   </tr>
 </table>
+
+## 알고리즘 역량 ✨
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=zzzz955)](https://solved.ac/zzzz955/)
+<img src="https://github.com/zzzz955/zzzz955/blob/main/PCCP2.png" alt="icon" width="170" height="170" />
 
 ## GitHub 통계 📊
 
@@ -82,12 +109,6 @@
   <summary>활동 그래프 📈</summary>
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzzz955&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true">
-</details>
-
-<details>
-  <summary>프로필 조회수 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=zzzz955&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 
 <!--
