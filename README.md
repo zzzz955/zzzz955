@@ -36,6 +36,14 @@
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       <br>Java
     </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/jira.png" width="65" height="65" alt="Jira" />
+      <br>Jira
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -51,32 +59,6 @@
       <br>Firebase
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/linux.png" alt="icon" width="65" height="65" />
-      <br>Linux
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>GitHub
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/jira.png" width="65" height="65" alt="Jira" />
-      <br>Jira
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/unity.png" alt="icon" width="65" height="65" />
-      <br>Unity
-    </td>
-    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" />
       <br>raspberrypi
     </td>
@@ -85,8 +67,30 @@
       <br>Arduino
     </td>
     <td align="center" width="96">
+        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/linux.png" alt="icon" width="65" height="65" />
+      <br>Linux
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/unity.png" alt="icon" width="65" height="65" />
+      <br>Unity
+    </td>
+    <td align="center" width="96">
         <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Tomcat.png" alt="icon" width="65" height="65" />
       <br>Tomcat
+    </td>
+    <td align="center" width="96">
+        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Flask.png" alt="icon" width="65" height="65" />
+      <br>Flask
     </td>
   </tr>
 </table>
