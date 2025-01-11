@@ -92,6 +92,10 @@
         <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Flask.png" alt="icon" width="65" height="65" />
       <br>Flask
     </td>
+    <td align="center" width="96">
+        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/FastAPI.svg" alt="icon" width="65" height="65" />
+      <br>FastAPI
+    </td>
   </tr>
 </table>
 
