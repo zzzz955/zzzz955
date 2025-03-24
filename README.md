@@ -106,6 +106,10 @@
         <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Spring.png" alt="icon" width="65" height="65" />
       <br>Spring
     </td>
+    <td align="center" width="96">
+        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Boost.png" alt="icon" width="65" height="65" />
+      <br>Boost
+    </td>
   </tr>
 </table>
 
