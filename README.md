@@ -13,71 +13,71 @@
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/C.png" alt="icon" width="65" height="65" />
+      <img src="https://github.com/zzzz955/zzzz955/blob/main/src/C.png" alt="icon" width="65" height="65" />
       <br>C
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
       <br>C#
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       <br>Java
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/oracle.png" alt="icon" width="65" height="65" />
+      <img src="https://github.com/zzzz955/zzzz955/blob/main/src/oracle.png" alt="icon" width="65" height="65" />
       <br>Oracle
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/PostgreSQL.svg" alt="icon" width="65" height="65" />
+      <img src="https://github.com/zzzz955/zzzz955/blob/main/src/PostgreSQL.svg" alt="icon" width="65" height="65" />
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/firebase.png" alt="icon" width="65" height="65" />
+      <img src="https://github.com/zzzz955/zzzz955/blob/main/src/firebase.png" alt="icon" width="65" height="65" />
       <br>Firebase
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Redis.png" alt="icon" width="65" height="65" />
+      <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Redis.png" alt="icon" width="65" height="65" />
       <br>Redis
     </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
+      <td align="center" width="96">
+      <img src="https://github.com/zzzz955/zzzz955/blob/main/src/MariaDB.svg" alt="icon" width="65" height="65" />
+      <br>MariaDB
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
       <br>GitHub
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/jira.png" width="65" height="65" alt="Jira" />
+      <img src="https://techstack-generator.vercel.app/GitLab.svg" width="65" height="65" alt="GitLab" />
+      <br>GitLab
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/zzzz955/zzzz955/blob/main/src/jira.png" width="65" height="65" alt="Jira" />
       <br>Jira
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/linux.png" alt="icon" width="65" height="65" />
-      <br>Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/unity.png" alt="icon" width="65" height="65" />
+      <img src="https://github.com/zzzz955/zzzz955/blob/main/src/unity.png" alt="icon" width="65" height="65" />
       <br>Unity
     </td>
     <td align="center" width="96">
@@ -85,40 +85,48 @@
       <br>raspberrypi
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Arduino.png" alt="icon" width="65" height="65" />
+      <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Arduino.png" alt="icon" width="65" height="65" />
       <br>Arduino
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Tomcat.png" alt="icon" width="65" height="65" />
+      <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Tomcat.png" alt="icon" width="65" height="65" />
       <br>Tomcat
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Flask.png" alt="icon" width="65" height="65" />
+      <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Flask.png" alt="icon" width="65" height="65" />
       <br>Flask
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/FastAPI.svg" alt="icon" width="65" height="65" />
+      <img src="https://github.com/zzzz955/zzzz955/blob/main/src/FastAPI.svg" alt="icon" width="65" height="65" />
       <br>FastAPI
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Spring.png" alt="icon" width="65" height="65" />
+      <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Spring.png" alt="icon" width="65" height="65" />
       <br>Spring
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Boost.png" alt="icon" width="65" height="65" />
+      <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Boost.png" alt="icon" width="65" height="65" />
       <br>Boost
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Kafka.png" alt="icon" width="65" height="65" />
+      <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Kafka.png" alt="icon" width="65" height="65" />
       <br>Kafka
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://github.com/zzzz955/zzzz955/blob/main/src/linux.png" alt="icon" width="65" height="65" />
+      <br>Linux
     </td>
   </tr>
 </table>
