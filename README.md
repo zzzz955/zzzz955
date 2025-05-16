@@ -69,7 +69,7 @@
       <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/GitLab.svg" width="65" height="65" alt="GitLab" />
+      <img src="https://techstack-generator.vercel.app/GitLab.png" width="65" height="65" alt="GitLab" />
       <br>GitLab
     </td>
     <td align="center" width="96">
