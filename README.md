@@ -132,6 +132,10 @@
       <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Arduino.png" alt="icon" width="65" height="65" />
       <br>Arduino
     </td>
+    <td align="center" width="96">
+      <img src="https://github.com/zzzz955/zzzz955/blob/main/src/Qt.png" alt="icon" width="65" height="65" />
+      <br>Qt
+    </td>
   </tr>
 </table>
 
