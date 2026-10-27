@@ -96,4 +96,4 @@
         height="100"
       ></rect>
       <text class="js-text" x="40" y="70" fill="white">TS</text>
-    </svg>
+    <style>@media(prefers-reduced-motion:reduce){*{animation:none!important}}</style></svg>
